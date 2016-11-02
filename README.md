@@ -1,5 +1,5 @@
 # Kaggle_Predicting-House-Prices
-Predicting House Prices using Linear Regression and Regularization (Score - .1223, Rank - 333)
+Predicting House Prices using Linear Regression and Regularization (Score - .12007, Rank - 221)
 
 ### Link to competetion : https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
